@@ -1,3 +1,4 @@
 Mi curso. Archivo2.
 Desarrollo de aplicaciones multiplataforma.
-IES Cañaveral Av de la Onu 81,28936
+IES Cañaveral Av de la Onu 81
+Codigo postal: 28936
